@@ -1,0 +1,7 @@
+{
+  "name": "মাল্টিমিডিয়া কমপ্লেক্স",
+  "description": "দক্ষতা অর্জন করুন, ভবিষ্যৎ গড়ুন - মাল্টিমিডিয়া কমপ্লেক্স এর আধুনিক প্রশিক্ষণ ও দক্ষতা উন্নয়ন ইনস্টিটিউট ওয়েবসাইট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
